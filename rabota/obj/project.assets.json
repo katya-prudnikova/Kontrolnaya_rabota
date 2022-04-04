@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gora\\Desktop\\Контрольная работа\\Kontrolnaya_rabota\\Kontrolnaya_rabota.csproj",
+      "projectUniqueName": "C:\\Users\\Gora\\Desktop\\Контрольная работа\\Kontrolnaya_rabota\\rabota\\Kontrolnaya_rabota.csproj",
       "projectName": "Kontrolnaya_rabota",
-      "projectPath": "C:\\Users\\Gora\\Desktop\\Контрольная работа\\Kontrolnaya_rabota\\Kontrolnaya_rabota.csproj",
+      "projectPath": "C:\\Users\\Gora\\Desktop\\Контрольная работа\\Kontrolnaya_rabota\\rabota\\Kontrolnaya_rabota.csproj",
       "packagesPath": "C:\\Users\\Gora\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gora\\Desktop\\Контрольная работа\\Kontrolnaya_rabota\\obj\\",
+      "outputPath": "C:\\Users\\Gora\\Desktop\\Контрольная работа\\Kontrolnaya_rabota\\rabota\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gora\\AppData\\Roaming\\NuGet\\NuGet.Config"

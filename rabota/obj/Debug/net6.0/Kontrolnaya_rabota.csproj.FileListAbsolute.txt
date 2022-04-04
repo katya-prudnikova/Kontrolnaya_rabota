@@ -1,0 +1,15 @@
+C:\Users\Gora\Desktop\Контрольная работа\Kontrolnaya_rabota\rabota\bin\Debug\net6.0\Kontrolnaya_rabota.exe
+C:\Users\Gora\Desktop\Контрольная работа\Kontrolnaya_rabota\rabota\bin\Debug\net6.0\Kontrolnaya_rabota.deps.json
+C:\Users\Gora\Desktop\Контрольная работа\Kontrolnaya_rabota\rabota\bin\Debug\net6.0\Kontrolnaya_rabota.runtimeconfig.json
+C:\Users\Gora\Desktop\Контрольная работа\Kontrolnaya_rabota\rabota\bin\Debug\net6.0\Kontrolnaya_rabota.dll
+C:\Users\Gora\Desktop\Контрольная работа\Kontrolnaya_rabota\rabota\bin\Debug\net6.0\ref\Kontrolnaya_rabota.dll
+C:\Users\Gora\Desktop\Контрольная работа\Kontrolnaya_rabota\rabota\bin\Debug\net6.0\Kontrolnaya_rabota.pdb
+C:\Users\Gora\Desktop\Контрольная работа\Kontrolnaya_rabota\rabota\obj\Debug\net6.0\Kontrolnaya_rabota.csproj.AssemblyReference.cache
+C:\Users\Gora\Desktop\Контрольная работа\Kontrolnaya_rabota\rabota\obj\Debug\net6.0\Kontrolnaya_rabota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gora\Desktop\Контрольная работа\Kontrolnaya_rabota\rabota\obj\Debug\net6.0\Kontrolnaya_rabota.AssemblyInfoInputs.cache
+C:\Users\Gora\Desktop\Контрольная работа\Kontrolnaya_rabota\rabota\obj\Debug\net6.0\Kontrolnaya_rabota.AssemblyInfo.cs
+C:\Users\Gora\Desktop\Контрольная работа\Kontrolnaya_rabota\rabota\obj\Debug\net6.0\Kontrolnaya_rabota.csproj.CoreCompileInputs.cache
+C:\Users\Gora\Desktop\Контрольная работа\Kontrolnaya_rabota\rabota\obj\Debug\net6.0\Kontrolnaya_rabota.dll
+C:\Users\Gora\Desktop\Контрольная работа\Kontrolnaya_rabota\rabota\obj\Debug\net6.0\ref\Kontrolnaya_rabota.dll
+C:\Users\Gora\Desktop\Контрольная работа\Kontrolnaya_rabota\rabota\obj\Debug\net6.0\Kontrolnaya_rabota.pdb
+C:\Users\Gora\Desktop\Контрольная работа\Kontrolnaya_rabota\rabota\obj\Debug\net6.0\Kontrolnaya_rabota.genruntimeconfig.cache
