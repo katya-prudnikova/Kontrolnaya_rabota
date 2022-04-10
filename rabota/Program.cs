@@ -43,3 +43,18 @@ foreach (var value in array)
     }
 }
 Console.WriteLine(string.Join(Environment.NewLine, result, 0, size));*/
+
+// Описание решение задачи циклом For 
+
+string[] array = new string[] {"hello", "2", "world", ":-)"};
+var result = new string[array.Length];
+var count = 0;
+for (int i = 0; i < array.Length; i++)
+{
+     if (array[i].Length <= 3)
+    {
+        result[count] = array[i];
+        count++;
+    }
+}
+Console.WriteLine(string.Join(Environment.NewLine, result, 0, count));
